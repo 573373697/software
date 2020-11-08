@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/study/error_test/error_test.iml" filepath="$PROJECT_DIR$/study/error_test/error_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allparents/allparents.iml" filepath="$PROJECT_DIR$/allparents/allparents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allparents/errors_demo/errors_demo.iml" filepath="$PROJECT_DIR$/allparents/errors_demo/errors_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ideaprojects-git.iml" filepath="$PROJECT_DIR$/.idea/ideaprojects-git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/study/study.iml" filepath="$PROJECT_DIR$/study/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allparents/springboot_demos/springboot_demos.iml" filepath="$PROJECT_DIR$/allparents/springboot_demos/springboot_demos.iml" />
     </modules>
   </component>
 </project>
